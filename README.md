@@ -81,11 +81,11 @@ while True:
 
 ### client.py :
 
-<img width="585" height="283" alt="image" src="https://github.com/user-attachments/assets/c81c6cb7-dfa0-4fdc-a19a-73beedbc6990" />
+<img width="515" height="251" alt="image" src="https://github.com/user-attachments/assets/fb37cbe9-e129-46cd-b8d5-d596b8a2da37" />
 
 ### server.py :
 
-<img width="631" height="212" alt="image" src="https://github.com/user-attachments/assets/099edf2b-f38f-4f43-9754-742a993979d1" />
+<img width="599" height="206" alt="image" src="https://github.com/user-attachments/assets/8d7961d1-748e-4429-85f4-f36d83e12d0b" />
 
 ## RESULT :
 
